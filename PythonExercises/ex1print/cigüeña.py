@@ -1,1 +1,1 @@
-print("oLA sOy UNa CIGüEÑá" * 3)
+print("oLA sOy UNa CIGüEÑá\n" * 3)
