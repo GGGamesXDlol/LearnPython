@@ -1,0 +1,1 @@
+print("Olaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" * 10)
