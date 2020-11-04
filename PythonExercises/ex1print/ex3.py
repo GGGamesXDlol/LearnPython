@@ -1,3 +1,5 @@
+print("\n")
+print("\n")
 print("Soy un cientifico matemático que estudia fisica cuantica, fisica, más fisica, y sumas y restas.")
 print("*Se acomoda las gafas*")
 print("Voy a hacer un calculo muy grando")
