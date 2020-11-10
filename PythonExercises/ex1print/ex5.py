@@ -2,7 +2,7 @@ mis_juegos = 50
 juegos_xbox = mis_juegos / 2
 juegos_ordenador = 25
 horas_que_he_jugado_de_cada_juego_en_un_mes = 120
-minutos_jugados_al_día_de_cada_juego = horas_que_he_jugado_de_cada_juego_en_un_mes / 24
+minutos_jugados_al_día_de_cada_juego = 5
 
 print("Hola, una pregunta, ¿Cuantos juegos tienes?.")
 print(f"Eso es facil yo tengo {mis_juegos}.")
