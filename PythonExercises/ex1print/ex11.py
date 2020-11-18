@@ -5,7 +5,7 @@ Como_juego = input()
 print("Cuando salga Hytale, ¿lo jugaras?", end=' ')
 Jugaras_Hytale = input()
 
-print(f"""Entoces, {Me_gusta} te gusta minecraft malo, te consideras {Como_juego} jugando y {Jugaras_Hytale} jugaras Hytale cuando salga,
+print(f"""Entoces, {Me_gusta} te gusta minecraft, te consideras {Como_juego} jugando y {Jugaras_Hytale} jugaras Hytale cuando salga,
 
 eso fue todo gracias.
 """)
