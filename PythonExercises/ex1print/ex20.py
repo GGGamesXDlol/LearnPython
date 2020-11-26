@@ -13,7 +13,7 @@ def print_a_line(line_count, f):
 
 current_file = open(input_file)
 
-print(f"Hora de inspeccionar este burrito con el nombre de {input_file}.\n")
+print(f"Hora de ir inspeccionar este burrito con el nombre de {input_file}.\n")
 
 print_all(current_file)
 
